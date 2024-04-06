@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babatonga" alt="babatonga" /></a> </p>
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **java and python**
+- 💬 Ask me about **Java, C#, Django & Python**
 
 - 📫 How to reach me **daniel@blackdan.de**
 
