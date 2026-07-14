@@ -67,8 +67,11 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=babatonga&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=babatonga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="metrics-stats.svg" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="metrics-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
